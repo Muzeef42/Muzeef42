@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @Muzeef42
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning html css .
-- 💞️ I’m looking to collaborate on people who continuesly working on web development 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
 
-<!---
-Muzeef42/Muzeef42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m Muzeef42 — a passionate programmer with a focus on Java, Python, and C.  
+I have knowledge in data structures and algorithms, and some experience with HTML and CSS.  
+I’m also eager to learn the MERN stack to build full-stack web applications.  
+
+Currently, I’m working on improving my coding skills across multiple languages and expanding my understanding of data structures.
+
+Feel free to check out my repositories and connect with me!
+
+- 🔭 Working on Java, Python, and C projects  
+- 🌱 Learning advanced data structures and MERN stack  
+- 💬 Ask me about Java, Python, C, HTML, CSS, or data structures  
+- 📫 Reach me at muzeefkokkinti@gmail.com
+
+Let’s code and learn together! 🚀
