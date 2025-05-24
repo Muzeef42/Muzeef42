@@ -8,7 +8,8 @@ Currently, I’m working on improving my coding skills across multiple languages
 
 Feel free to check out my repositories and connect with me!
 
-- 🔭 Working on Java, Python, and C projects  
+- 🔭 Working on Java, Python, and C projects
+- CURRENTLY LEARNING JAVA WITH DSA WITH CONSISTENT
 - 🌱 Learning advanced data structures and MERN stack  
 - 💬 Ask me about Java, Python, C, HTML, CSS, or data structures  
 - 📫 Reach me at muzeefkokkinti@gmail.com
